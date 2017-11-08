@@ -1,0 +1,79 @@
+
+        #body
+        {
+            background-color: #ff0000;
+        }
+        #top
+        {
+            color: #ffffff;
+            font-family:Century Gothic;
+            font-size: 90px;
+           text-align: center;
+        }
+#infm
+{
+     color: #ffffff;
+            font-family:Century Gothic;
+            font-size: 20px;
+}
+#inf
+{
+     color: #ffffff;
+            font-family:Century Gothic;
+            font-size: 20px;        
+}
+#for{
+   position:absolute;
+  top:30%;
+  left:50%;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+}
+#sem
+{
+  margin-left: 5%;
+  font-family:Century Gothic;
+  font-weight: bold;
+}
+select.cou
+{
+    font-family:Century Gothic;
+     font-weight: bold;
+}
+.button {
+    font-family:Century Gothic;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 6px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.2s;
+    cursor: pointer;
+}
+.subm {
+    background-color: white; 
+    color: #ff0000; 
+    font-weight: bold;
+    border: 2px solid black;
+}
+
+.subm:hover {
+    background-color: #ff0000;
+    color: white;
+    border: 2px solid black;
+}
+#frm{
+    width: 100%;
+   height: 400px;
+    margin-top: 20%;
+}
+
+
+
+     
+
